@@ -18,9 +18,9 @@ Essa é uma aplicação construída em React para explorar repositórios do Gith
 
 ## Execução
 
-1 - Clonar repositório
-2 - Entrar na pasta do projeto
-3 - Executar `yarn` ou `npm i`
-4 - Executar `yarn start` ou `npm start`
+1. Clonar repositório
+2. Entrar na pasta do projeto
+3. Executar `yarn` ou `npm i`
+4. Executar `yarn start` ou `npm start`
 
 ## Design por @tiagoluchtenberg
