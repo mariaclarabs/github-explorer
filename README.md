@@ -24,3 +24,10 @@ Essa é uma aplicação construída em React para explorar repositórios do Gith
 4. Executar `yarn start` ou `npm start`
 
 ## Design por @tiagoluchtenberg
+
+### Página de busca
+![githubexplorer](https://user-images.githubusercontent.com/39465910/118060309-e2ebb180-b368-11eb-94f1-9ada94ee37e4.png)
+
+### Página de detalhes de repositório
+![githubexplorer2](https://user-images.githubusercontent.com/39465910/118060372-057dca80-b369-11eb-985f-56b72e785af3.png)
+
